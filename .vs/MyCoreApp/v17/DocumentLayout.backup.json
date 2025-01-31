@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\sebas\\onedrive\\desktop\\centennial college\\devops\\mycoreapp\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\sebas\\onedrive\\desktop\\centennial college\\devops\\mycoreapp\\mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\sebas\\onedrive\\desktop\\centennial college\\devops\\mycoreapp\\mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\sebas\\onedrive\\desktop\\centennial college\\devops\\mycoreapp\\mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|c:\\users\\sebas\\onedrive\\desktop\\centennial college\\devops\\mycoreapp\\mycoreapp\\mycoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A075138A-DC35-44BF-B933-789F7D0D8E76}|MyCoreApp\\MyCoreApp.csproj|solutionrelative:mycoreapp\\mycoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:29:54.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:22:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:21:46.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:28:24.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyCoreApp",
+              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+              "RelativeDocumentMoniker": "MyCoreApp\\MyCoreApp.csproj",
+              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial College\\DevOps\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+              "RelativeToolTip": "MyCoreApp\\MyCoreApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T17:21:28.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
